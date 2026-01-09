@@ -8,8 +8,6 @@ Sample application to show how to set up a c++ project using CMake and conan to 
 - CMake and Conan need to be installed, these can be installed with the following command:
 - ```brew install cmake```
 - ```brew install conan ```
-- Run the following command to create a logs directory in your project
-- ```mkdir logs```
 
 ### To build and run the application is should be as simple as running the build-and-run.sh script provided
 ```./build-and-run.sh```
